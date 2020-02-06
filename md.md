@@ -9,3 +9,10 @@ Github用的是[*GitHub Flavored Markdown*](https://github.github.com/gfm/)来�
 比如这样：`![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})`，但是这种方式在VSCode等工具中会出现预览问题，但在Github上能正常显示动态生成图片之后的公式。
 ### 2、通过[*Markdown Preview Enhanced*](https://shd101wyy.github.io/markdown-preview-enhanced/)的Atom或者VSCode扩展来生成
 以VSCode举例具体步骤为，通过*Markdown Preview Enhanced*来预览md文件(ctrl+shift+v)，然后点击File再点击另存为新的md文件，会被自动转换成用CodeCogs里的图片服务来实时生成公式。
+
+#一些公式例子：
+$$ evidence_{i}=\sum_{j}W_{ij}x_{j}+b_{i} $$
+
+$$ \lim_{x \to +\infty}\frac{1}{x}$$
+
+$$\frac{\partial^2 u}{\partial z^2}$$
