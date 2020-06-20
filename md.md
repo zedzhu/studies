@@ -16,3 +16,4 @@ $$ evidence_{i}=\sum_{j}W_{ij}x_{j}+b_{i} $$
 $$ \lim_{x \to +\infty}\frac{1}{x}$$
 
 $$\frac{\partial^2 u}{\partial z^2}$$
+ 
